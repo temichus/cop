@@ -1,0 +1,7 @@
+curl -X POST http://127.0.0.1:8000/api/v1/addrecord/3 -d '{"id":"name"}' -H "Content-Type: application/json"
+
+
+curl -X POST http://127.0.0.1:8000/api/v1/addrecord/3 -d '{"id":"name"}' -H "Content-Type: application/json"
+
+
+curl -I -X GET http://127.0.0.1:8000/api/v1/getrecord/4 -H "Content-Type: application/json"
