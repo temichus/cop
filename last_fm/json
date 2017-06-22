@@ -1,0 +1,5 @@
+API keyd70c1b1f416b304a572c83dc86159005
+Shared secret47e131935adc0f395a34bfaa6e064e80
+
+http://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=cher&api_key=YOUR_API_KEY&format=json
+http://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Apocaliptyca&api_key=3ed99f622de73d0a5c60b33439b68bba&format=json
